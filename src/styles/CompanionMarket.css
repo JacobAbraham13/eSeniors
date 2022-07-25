@@ -1,0 +1,10 @@
+.filter-form {
+  width: 500px;
+
+}
+
+.filter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

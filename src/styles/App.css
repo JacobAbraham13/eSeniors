@@ -1,0 +1,12 @@
+.page {
+  height: 2000px;
+  background-color: lightcyan;
+}
+
+.non-nav {
+  margin-top: 25px;
+}
+
+/* .nav-select {
+  margin-right: 40px;
+} */

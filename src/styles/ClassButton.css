@@ -1,0 +1,36 @@
+#class-box {
+  display: flex;
+  
+  align-items: center;
+  background-color: orange;
+  width: 800px;
+  height: 50px;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: darkblue;
+  margin-top: 20px;
+  color: black;
+  justify-content: center;
+  
+  
+}
+
+#class-text {
+  width: 500px;
+  height: 30px;
+  margin-left: 10px;
+  margin-right: 30px;
+  padding-top: 5px;
+}
+
+#sign-up {
+  float: right;
+  background-color: lightgreen;
+  width: 80px;
+  height: 30px;
+  margin-right: 15px;
+  border-radius: 10px;
+  border-width: 2px;
+  cursor: pointer;
+}
